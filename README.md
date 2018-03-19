@@ -1,7 +1,7 @@
 # 3年B組
 
 - 好きな女性の顔をLINEに投稿すると、その顔に似たAV女優を返してくれるLine Botのスクリプトです。
-- Line API ⇒ Google Apps Script ⇒ Face API ⇒ Google Apps Script ⇒ DMM APIという流れで処理をしています。
+- Line API ⇒ Google Apps Script ⇒ Face API ⇒ Google Apps Script ⇒ DMM API ⇒ Google Apps Script ⇒ Line API という流れで処理をしています。
 - Google Apps Scriptで処理をしています。
 
 # 詰まっているところ
